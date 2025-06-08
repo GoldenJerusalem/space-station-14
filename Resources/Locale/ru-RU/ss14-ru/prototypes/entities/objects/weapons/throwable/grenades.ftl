@@ -7,14 +7,14 @@ ent-GrenadeFlashBang = светошумовая граната
 ent-GrenadeFlashEffect = { "" }
     .desc = { "" }
 # Corvax-HiddenDesc-Start
-ent-SyndieMiniBomb = минибомба с таймером
-    .suffix = Синдикат
+ent-SyndieMiniBomb = минибомба
     .desc = Аккуратное, стильное взрывное устройство с приятно-потрескивающим таймером, предназначенное сеять хаос и разрушение.
+    .suffix = минибомба синдиката
+# Corvax-HiddenDesc-End
 ent-SelfDestructSeq = Самоуничтожение
     .desc = Уйти на своих условиях!
-# Corvax-HiddenDesc-End
 ent-SingularityGrenade = граната сингулярности
-    .desc = Граната, имитирующая расслоение сверхматерии двигателя, притягивает всё в кучу и через некоторое время взрывается.
+    .desc = Граната, которая имитирует силу сингулярности, собирая вещи в кучу.
 ent-WhiteholeGrenade = граната белой дыры
     .desc = Граната, которая некоторое время отталкивает всё вокруг.
 ent-NuclearGrenade = критическая масса
@@ -25,7 +25,7 @@ ent-EmpGrenade = ЭМИ граната
     .desc = Граната, предназначенная для поражения электрических систем.
 # Corvax-HiddenDesc-Start
 ent-HolyHandGrenade = благословлённая держава
-    .suffix = святая граната Синдиката
+    .suffix = святая граната
     .desc = «Благослови, Господи, сию ручную державу, да помоги мне исполнить мечты мои!».
 # Corvax-HiddenDesc-End
 ent-SmokeGrenade = дымовая граната
@@ -36,11 +36,13 @@ ent-TearGasGrenade = слезоточивая граната
     .desc = Граната со слезоточивым газом для борьбы с беспорядками. Вызывает раздражение, боль и заставляет вас выплакать глаза.
 ent-MetalFoamGrenade = металлопенная граната
     .desc = Аварийное приспособление, используемое для заделывания пробоин. Почти так же надёжно, как настоящие стены.
+ent-AirGrenade = air grenade
+    .desc = A special solid state chemical grenade used for quickly releasing standard air into a spaced area. Fills up to 30 tiles!
 ent-GrenadeDummy = граната-обманка
-    .desc = Граната есть — взрыва нет.
+    .desc = Граната есть - взрыва нет.
 # Corvax-HiddenDesc-Start
-ent-SyndieTrickyBomb = хитроумная бомба
-    .desc = Взрывное устройство, больше отвлекающее внимание, чем наносящее реальный вред.
+ent-SyndieTrickyBomb = хитробомба
+    .desc = Взрывчатка, изготовленная синдикатом, служит отличным отвлекающим манёвром.
 
 # Corvax-HiddenDesc-End
 
